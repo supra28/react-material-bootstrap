@@ -9,7 +9,6 @@ injectTapEventPlugin();
 
 
 
-
 class App extends Component {
   state = { greetData: "Hello" }
   render() {
